@@ -1,2 +1,5 @@
 # Calculation-of-YOLO-metrics
-Code for calculating YOLO metrics based on the specified gt and validation folders
+
+To work with the code, you will need images on which validation was calculated
+
+You need to replace all the paths to the necessary folders and run all 3 Jupiter cells in turn
